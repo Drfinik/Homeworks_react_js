@@ -6,7 +6,7 @@ function App() {
   return (
     <div className="App">
       <Message text="Привет, мир!" />
-      <Message text="Это второй текст" />
+      <Message text="Это мое первое задание на курсе React JS" />
     </div>
   );
 }
