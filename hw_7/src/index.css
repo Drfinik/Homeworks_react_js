@@ -1,0 +1,32 @@
+body {
+  margin: 0 auto !important;
+  padding: 0;
+  box-sizing: border-box;
+  max-width: 1024px;
+}
+
+.App {
+  text-align: center;
+}
+
+.App ul {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.App ul li {
+  width: 290px;
+  font-size: 16px;
+}
+
+.btn {  
+  margin-top: 10px;
+  margin-bottom: 30px;
+  display: flex;
+  justify-content: space-between;
+}
+
+button {
+  font-weight: 600;
+}
